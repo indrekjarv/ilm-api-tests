@@ -5,7 +5,7 @@ use PHPUnit\Framework\TestCase;
 
 class ClimateMonthlySummaryMonthTest extends TestCase
 {
-    public function test_climate_monthly_summary_month()
+    public function test_climate_monthlySummaryMonth()
     {
         $client = new Client([
             'base_uri' => $_REQUEST['WSO2'],

@@ -5,7 +5,7 @@ use PHPUnit\Framework\TestCase;
 
 class BeachWeatherBeachWeatherTest extends TestCase
 {
-    public function test_beach_weather_beach_weather()
+    public function test_beachWeather_beachWeather()
     {
         $client = new Client([
             'base_uri' => $_REQUEST['WSO2'],
