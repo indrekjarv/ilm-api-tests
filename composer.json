@@ -1,0 +1,11 @@
+{
+    "name": "ilm/api-tests",
+    "description": "Ilm API tests",
+    "require": {
+        "guzzlehttp/guzzle": "^7.2",
+        "phpunit/phpunit": "^9.4"
+    },
+  "require-dev": {
+    "ext-json": "*"
+  }
+}

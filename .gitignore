@@ -1,0 +1,7 @@
+/public/index.html
+/vendor
+.env
+.phpstorm.meta.php
+_ide_helper.php
+.idea
+.phpunit.result.cache
